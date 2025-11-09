@@ -117,6 +117,8 @@ index.py
 ```
 ## OUTPUT
 <img width="978" height="409" alt="image" src="https://github.com/user-attachments/assets/3cce61fb-cf0b-418b-9837-ba3c6dd60f1d" />
+<img width="1132" height="210" alt="image" src="https://github.com/user-attachments/assets/4f1c7c74-9b53-48d7-b7e7-cd3629599639" />
+
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
